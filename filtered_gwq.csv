@@ -22,9 +22,6 @@ West Bengal,24 Paraganas South,2013,177.96364
 West Bengal,24 Paraganas South,2016,255.11429
 West Bengal,24 Paraganas South,2017,276.57407
 West Bengal,24 Paraganas South,2018,293.66
-Andhra Pradesh,Adilabad,2000,76.699997
-Andhra Pradesh,Adilabad,2001,53.714287
-Andhra Pradesh,Adilabad,2002,65.845711
 Telangana,Adilabad,2004,65.5
 Telangana,Adilabad,2005,68.25
 Telangana,Adilabad,2006,76.727272
@@ -289,9 +286,6 @@ Gujarat,Anand,2015,271.73334
 Gujarat,Anand,2016,296.70001
 Gujarat,Anand,2017,273.23077
 Gujarat,Anand,2018,338.0
-Andhra Pradesh,Anantapur,2000,263.62857
-Andhra Pradesh,Anantapur,2001,248.588
-Andhra Pradesh,Anantapur,2002,250.7048
 Andhra Pradesh,Anantapur,2004,353.38889
 Andhra Pradesh,Anantapur,2005,439.72726
 Andhra Pradesh,Anantapur,2006,287.09091
@@ -820,10 +814,6 @@ Uttar Pradesh,Bhadohi,2002,51.25
 Uttar Pradesh,Bhadohi,2004,56.5
 Uttar Pradesh,Bhadohi,2016,11.666667
 Uttar Pradesh,Bhadohi,2018,77.990005
-Andhra Pradesh,Bhadradri Kothagudem,2000,157.85715
-Andhra Pradesh,Bhadradri Kothagudem,2001,50.0
-Andhra Pradesh,Bhadradri Kothagudem,2002,125.25
-Andhra Pradesh,Bhadradri Kothagudem,2003,82.0
 Telangana,Bhadradri Kothagudem,2004,186.85715
 Telangana,Bhadradri Kothagudem,2005,164.625
 Telangana,Bhadradri Kothagudem,2006,184.86667
@@ -1381,8 +1371,6 @@ Rajasthan,Chittaurgarh,2014,189.0
 Rajasthan,Chittaurgarh,2016,138.5
 Rajasthan,Chittaurgarh,2017,638.5
 Rajasthan,Chittaurgarh,2018,287.5
-Andhra Pradesh,Chittoor,2000,145.63637
-Andhra Pradesh,Chittoor,2002,210.21053
 Andhra Pradesh,Chittoor,2004,268.14816
 Andhra Pradesh,Chittoor,2005,283.75
 Andhra Pradesh,Chittoor,2006,181.28947
@@ -1444,7 +1432,7 @@ Tamilnadu,Coimbatore,2006,381.53845
 Tamilnadu,Coimbatore,2007,319.66666
 Tamilnadu,Coimbatore,2009,349.85715
 Tamilnadu,Coimbatore,2010,270.92856
-TamilNadu,Coimbatore,2011,280.72726
+Tamilnadu,Coimbatore,2011,280.72726
 Tamilnadu,Coimbatore,2012,335.5
 Tamilnadu,Coimbatore,2013,235.23077
 Tamilnadu,Coimbatore,2014,204.41818
@@ -1479,7 +1467,7 @@ Tamilnadu,Cuddalore,2009,240.0
 Tamilnadu,Cuddalore,2010,356.18182
 Tamilnadu,Cuddalore,2011,248.22223
 Tamilnadu,Cuddalore,2012,172.0
-TamilNadu,Cuddalore,2013,271.41666
+Tamilnadu,Cuddalore,2013,271.41666
 Tamilnadu,Cuddalore,2014,319.51111
 Tamilnadu,Cuddalore,2015,285.77777
 Tamilnadu,Cuddalore,2016,238.54565
@@ -2011,8 +1999,6 @@ Meghalaya,East Garo Hills,2014,43.866669
 Meghalaya,East Garo Hills,2015,52.928574
 Meghalaya,East Garo Hills,2016,30.905287
 Meghalaya,East Garo Hills,2018,29.541668
-Andhra Pradesh,East Godavari,2000,248.9697
-Andhra Pradesh,East Godavari,2002,347.3143
 Andhra Pradesh,East Godavari,2004,394.76666
 Andhra Pradesh,East Godavari,2005,343.84375
 Andhra Pradesh,East Godavari,2006,322.23529
@@ -2402,8 +2388,6 @@ Madhya Pradesh,Guna,2015,79.5
 Madhya Pradesh,Guna,2016,86.761902
 Madhya Pradesh,Guna,2017,96.608696
 Madhya Pradesh,Guna,2018,69.631577
-Andhra Pradesh,Guntur,2000,510.95239
-Andhra Pradesh,Guntur,2002,217.32143
 Andhra Pradesh,Guntur,2004,386.23334
 Andhra Pradesh,Guntur,2005,482.27777
 Andhra Pradesh,Guntur,2006,463.1282
@@ -2681,10 +2665,6 @@ West Bengal,Howrah,2013,149.42857
 West Bengal,Howrah,2016,324.33334
 West Bengal,Howrah,2017,306.92856
 West Bengal,Howrah,2018,365.32852
-Andhra Pradesh,Hyderabad,2000,116.0
-Andhra Pradesh,Hyderabad,2001,132.39999
-Andhra Pradesh,Hyderabad,2002,128.25
-Andhra Pradesh,Hyderabad,2003,221.42857
 Telangana,Hyderabad,2004,91.699997
 Telangana,Hyderabad,2005,189.33333
 Telangana,Hyderabad,2006,147.66667
@@ -2765,9 +2745,6 @@ Odisha,Jagatsinghapur,2015,118.45454
 Odisha,Jagatsinghapur,2016,119.01188
 Odisha,Jagatsinghapur,2017,96.222221
 Odisha,Jagatsinghapur,2018,103.0
-Andhra Pradesh,Jagitial,2000,93.599998
-Andhra Pradesh,Jagitial,2002,95.0
-Andhra Pradesh,Jagitial,2003,72.0
 Telangana,Jagitial,2004,137.0
 Telangana,Jagitial,2005,137.0
 Telangana,Jagitial,2006,136.8
@@ -3023,8 +3000,6 @@ Uttar Pradesh,Jaunpur,2002,21.033333
 Uttar Pradesh,Jaunpur,2004,64.909088
 Uttar Pradesh,Jaunpur,2016,20.091667
 Uttar Pradesh,Jaunpur,2018,30.366428
-Andhra Pradesh,Jayashankar Bhupalapally,2000,48.333332
-Andhra Pradesh,Jayashankar Bhupalapally,2002,113.5
 Telangana,Jayashankar Bhupalapally,2004,64.0
 Telangana,Jayashankar Bhupalapally,2005,88.5
 Telangana,Jayashankar Bhupalapally,2006,106.0
@@ -3206,9 +3181,6 @@ Rajasthan,Jodhpur,2015,1322.3334
 Rajasthan,Jodhpur,2016,692.5423
 Rajasthan,Jodhpur,2017,646.0
 Rajasthan,Jodhpur,2018,662.56525
-Andhra Pradesh,Jogulamba Gadwal,2000,347.39999
-Andhra Pradesh,Jogulamba Gadwal,2002,386.5
-Andhra Pradesh,Jogulamba Gadwal,2003,394.5
 Telangana,Jogulamba Gadwal,2004,176.0
 Telangana,Jogulamba Gadwal,2005,160.33333
 Telangana,Jogulamba Gadwal,2006,193.66667
@@ -3332,8 +3304,6 @@ Odisha,Kalahandi,2015,110.19231
 Odisha,Kalahandi,2016,84.278259
 Odisha,Kalahandi,2017,115.53846
 Odisha,Kalahandi,2018,115.97369
-Andhra Pradesh,Kamareddy,2000,257.0
-Andhra Pradesh,Kamareddy,2002,260.5
 Telangana,Kamareddy,2004,992.0
 Telangana,Kamareddy,2005,205.33333
 Telangana,Kamareddy,2006,164.75
@@ -3517,9 +3487,6 @@ Assam,Karimganj,2015,91.580002
 Assam,Karimganj,2016,29.444445
 Assam,Karimganj,2017,40.18
 Assam,Karimganj,2018,123.28722
-Andhra Pradesh,Karimnagar,2000,128.0
-Andhra Pradesh,Karimnagar,2002,160.66667
-Andhra Pradesh,Karimnagar,2003,151.75
 Telangana,Karimnagar,2004,217.0
 Telangana,Karimnagar,2005,172.0
 Telangana,Karimnagar,2006,178.57143
@@ -3674,8 +3641,6 @@ Bihar,Khagaria,2011,46.42857
 Bihar,Khagaria,2012,30.16
 Bihar,Khagaria,2013,87.509094
 Bihar,Khagaria,2016,76.328201
-Andhra Pradesh,Khammam,2000,279.16666
-Andhra Pradesh,Khammam,2002,237.07692
 Telangana,Khammam,2004,384.27274
 Telangana,Khammam,2005,235.54546
 Telangana,Khammam,2006,499.0
@@ -3951,8 +3916,6 @@ Kerala,Kozhikode,2015,32.369564
 Kerala,Kozhikode,2016,41.604347
 Kerala,Kozhikode,2017,32.022221
 Kerala,Kozhikode,2018,52.592594
-Andhra Pradesh,Krishna,2000,557.85712
-Andhra Pradesh,Krishna,2002,361.40909
 Andhra Pradesh,Krishna,2004,778.5
 Andhra Pradesh,Krishna,2005,692.90002
 Andhra Pradesh,Krishna,2006,410.67999
@@ -3974,9 +3937,9 @@ Tamilnadu,Krishnagiri,2002,139.85715
 Tamilnadu,Krishnagiri,2004,286.57144
 Tamilnadu,Krishnagiri,2005,282.22223
 Tamilnadu,Krishnagiri,2006,322.0
-TamilNadu,Krishnagiri,2007,220.42857
+Tamilnadu,Krishnagiri,2007,220.42857
 Tamilnadu,Krishnagiri,2009,329.20001
-TamilNadu,Krishnagiri,2010,350.79999
+Tamilnadu,Krishnagiri,2010,350.79999
 Tamilnadu,Krishnagiri,2011,268.0
 Tamilnadu,Krishnagiri,2012,310.0
 Tamilnadu,Krishnagiri,2015,221.0
@@ -3996,9 +3959,6 @@ Himachal Pradesh,Kullu,2010,14.033333
 Himachal Pradesh,Kullu,2011,22.666666
 Himachal Pradesh,Kullu,2012,40.333332
 Himachal Pradesh,Kullu,2018,64.0
-Andhra Pradesh,Kumuram Bheem Asifabad,2000,141.0
-Andhra Pradesh,Kumuram Bheem Asifabad,2001,185.8
-Andhra Pradesh,Kumuram Bheem Asifabad,2002,186.1375
 Telangana,Kumuram Bheem Asifabad,2004,95.666664
 Telangana,Kumuram Bheem Asifabad,2005,60.0
 Telangana,Kumuram Bheem Asifabad,2006,102.75
@@ -4019,8 +3979,6 @@ Jammu And Kashmir,Kupwara,2013,49.400002
 Jammu And Kashmir,Kupwara,2014,70.571426
 Jammu And Kashmir,Kupwara,2015,50.075001
 Jammu And Kashmir,Kupwara,2016,47.222221
-Andhra Pradesh,Kurnool,2000,199.5
-Andhra Pradesh,Kurnool,2002,308.95999
 Andhra Pradesh,Kurnool,2004,260.58823
 Andhra Pradesh,Kurnool,2005,285.26666
 Andhra Pradesh,Kurnool,2006,346.33334
@@ -4175,8 +4133,6 @@ Tamilnadu,Madurai,2015,386.42856
 Tamilnadu,Madurai,2016,287.51932
 Tamilnadu,Madurai,2017,314.64273
 Tamilnadu,Madurai,2018,244.26738
-Andhra Pradesh,Mahabubabad,2000,202.2
-Andhra Pradesh,Mahabubabad,2002,189.39999
 Telangana,Mahabubabad,2004,329.66666
 Telangana,Mahabubabad,2005,406.33334
 Telangana,Mahabubabad,2006,216.66667
@@ -4192,9 +4148,6 @@ Telangana,Mahabubabad,2015,244.5
 Telangana,Mahabubabad,2016,223.83333
 Telangana,Mahabubabad,2017,238.0
 Telangana,Mahabubabad,2018,285.66666
-Andhra Pradesh,Mahabubnagar,2000,427.5
-Andhra Pradesh,Mahabubnagar,2002,243.66667
-Andhra Pradesh,Mahabubnagar,2003,367.0
 Telangana,Mahabubnagar,2004,179.0
 Telangana,Mahabubnagar,2005,92.0
 Telangana,Mahabubnagar,2006,207.66667
@@ -4318,9 +4271,6 @@ Odisha,Malkangiri,2015,98.625
 Odisha,Malkangiri,2016,64.926666
 Odisha,Malkangiri,2017,66.470589
 Odisha,Malkangiri,2018,66.473686
-Andhra Pradesh,Mancherial,2000,149.0
-Andhra Pradesh,Mancherial,2001,183.25
-Andhra Pradesh,Mancherial,2002,224.88428
 Telangana,Mancherial,2004,118.0
 Telangana,Mancherial,2005,122.66666
 Telangana,Mancherial,2006,224.25
@@ -4439,9 +4389,6 @@ Odisha,Mayurbhanj,2015,49.057144
 Odisha,Mayurbhanj,2016,55.736065
 Odisha,Mayurbhanj,2017,65.862503
 Odisha,Mayurbhanj,2018,53.60294
-Andhra Pradesh,Medak,2000,94.0
-Andhra Pradesh,Medak,2001,113.0
-Andhra Pradesh,Medak,2002,88.5
 Telangana,Medak,2004,145.0
 Telangana,Medak,2005,608.0
 Telangana,Medak,2006,451.0
@@ -4457,9 +4404,6 @@ Telangana,Medak,2015,262.875
 Telangana,Medak,2016,285.33334
 Telangana,Medak,2017,158.77777
 Telangana,Medak,2018,256.0
-Andhra Pradesh,Medchal Malkajgiri,2000,193.0
-Andhra Pradesh,Medchal Malkajgiri,2001,123.0
-Andhra Pradesh,Medchal Malkajgiri,2002,284.0
 Telangana,Medchal Malkajgiri,2004,64.0
 Telangana,Medchal Malkajgiri,2006,115.5
 Telangana,Medchal Malkajgiri,2008,108.0
@@ -4689,9 +4633,6 @@ Tamilnadu,Nagapattinam,2015,350.89999
 Tamilnadu,Nagapattinam,2016,271.20251
 Tamilnadu,Nagapattinam,2017,395.3623
 Tamilnadu,Nagapattinam,2018,345.89072
-Andhra Pradesh,Nagarkurnool,2000,336.66666
-Andhra Pradesh,Nagarkurnool,2002,264.5
-Andhra Pradesh,Nagarkurnool,2003,624.0
 Telangana,Nagarkurnool,2004,588.0
 Telangana,Nagarkurnool,2005,521.0
 Telangana,Nagarkurnool,2006,471.5
@@ -4766,9 +4707,6 @@ Bihar,Nalanda,2016,131.96082
 Assam,Nalbari,2015,12.0
 Assam,Nalbari,2016,23.747288
 Assam,Nalbari,2018,24.815001
-Andhra Pradesh,Nalgonda,2000,380.25
-Andhra Pradesh,Nalgonda,2001,409.802
-Andhra Pradesh,Nalgonda,2002,379.10001
 Telangana,Nalgonda,2004,612.0
 Telangana,Nalgonda,2005,615.0
 Telangana,Nalgonda,2006,521.25
@@ -4833,9 +4771,6 @@ Maharashtra,Nandurbar,2015,89.0
 Maharashtra,Nandurbar,2016,155.63158
 Maharashtra,Nandurbar,2017,149.24423
 Maharashtra,Nandurbar,2018,117.70581
-Andhra Pradesh,Narayanpet,2000,1063.5
-Andhra Pradesh,Narayanpet,2002,742.33331
-Andhra Pradesh,Narayanpet,2003,386.5
 Telangana,Narayanpet,2004,368.5
 Telangana,Narayanpet,2005,294.5
 Telangana,Narayanpet,2006,1038.6666
@@ -4982,9 +4917,6 @@ Delhi,New Delhi,2006,100.0
 Delhi,New Delhi,2007,1313.0
 Delhi,New Delhi,2008,246.60001
 Delhi,New Delhi,2010,309.5
-Andhra Pradesh,Nirmal,2000,105.5
-Andhra Pradesh,Nirmal,2001,113.875
-Andhra Pradesh,Nirmal,2002,101.63833
 Telangana,Nirmal,2004,121.4
 Telangana,Nirmal,2005,110.0
 Telangana,Nirmal,2006,153.0
@@ -5000,8 +4932,6 @@ Telangana,Nirmal,2015,153.55556
 Telangana,Nirmal,2016,187.8
 Telangana,Nirmal,2017,152.66667
 Telangana,Nirmal,2018,57.25
-Andhra Pradesh,Nizamabad,2000,116.4
-Andhra Pradesh,Nizamabad,2002,139.65715
 Telangana,Nizamabad,2004,124.5
 Telangana,Nizamabad,2005,142.33333
 Telangana,Nizamabad,2006,100.33334
@@ -5381,10 +5311,6 @@ Uttarakhand,Pauri Garhwal,2010,3.9000001
 Uttarakhand,Pauri Garhwal,2011,14.0
 Uttarakhand,Pauri Garhwal,2013,10.0
 Uttarakhand,Pauri Garhwal,2014,11.0
-Andhra Pradesh,Peddapalli,2000,270.25
-Andhra Pradesh,Peddapalli,2001,681.0
-Andhra Pradesh,Peddapalli,2002,333.25
-Andhra Pradesh,Peddapalli,2003,585.0
 Telangana,Peddapalli,2004,153.5
 Telangana,Peddapalli,2005,167.0
 Telangana,Peddapalli,2006,230.5
@@ -5449,9 +5375,6 @@ Gujarat,Porbandar,2015,684.53333
 Gujarat,Porbandar,2016,974.30768
 Gujarat,Porbandar,2017,1148.4166
 Gujarat,Porbandar,2018,977.54547
-Andhra Pradesh,Prakasam,2000,575.97058
-Andhra Pradesh,Prakasam,2001,312.21054
-Andhra Pradesh,Prakasam,2002,476.28946
 Andhra Pradesh,Prakasam,2004,334.56
 Andhra Pradesh,Prakasam,2005,439.04349
 Andhra Pradesh,Prakasam,2006,398.88235
@@ -5709,9 +5632,6 @@ Madhya Pradesh,Raisen,2014,119.64
 Madhya Pradesh,Raisen,2016,96.269234
 Madhya Pradesh,Raisen,2017,83.555557
 Madhya Pradesh,Raisen,2018,102.44
-Andhra Pradesh,Rajanna Sircilla,2000,143.0
-Andhra Pradesh,Rajanna Sircilla,2002,241.0
-Andhra Pradesh,Rajanna Sircilla,2003,177.0
 Telangana,Rajanna Sircilla,2004,248.0
 Telangana,Rajanna Sircilla,2006,268.0
 Telangana,Rajanna Sircilla,2007,212.66667
@@ -5871,10 +5791,6 @@ Jharkhand,Ranchi,2010,58.75
 Jharkhand,Ranchi,2011,41.356667
 Jharkhand,Ranchi,2012,66.826088
 Jharkhand,Ranchi,2013,76.823532
-Andhra Pradesh,Ranga Reddy,2000,141.39999
-Andhra Pradesh,Ranga Reddy,2001,171.5
-Andhra Pradesh,Ranga Reddy,2002,199.44444
-Andhra Pradesh,Ranga Reddy,2003,789.66669
 Telangana,Ranga Reddy,2004,216.33333
 Telangana,Ranga Reddy,2005,189.0
 Telangana,Ranga Reddy,2006,228.0
@@ -6168,9 +6084,6 @@ Odisha,Sambalpur,2018,75.239433
 Uttar Pradesh,Sambhal,2004,14.0
 Uttar Pradesh,Sambhal,2016,92.0
 Uttar Pradesh,Sambhal,2018,99.400002
-Andhra Pradesh,Sangareddy,2000,215.0
-Andhra Pradesh,Sangareddy,2001,138.25
-Andhra Pradesh,Sangareddy,2002,135.0
 Telangana,Sangareddy,2004,147.0
 Telangana,Sangareddy,2005,53.0
 Telangana,Sangareddy,2006,139.8
@@ -6442,9 +6355,6 @@ Uttar Pradesh,Shravasti,2016,22.142857
 Uttar Pradesh,Siddharth Nagar,2000,34.5
 Uttar Pradesh,Siddharth Nagar,2016,30.181818
 Uttar Pradesh,Siddharth Nagar,2018,47.879002
-Andhra Pradesh,Siddipet,2000,142.0
-Andhra Pradesh,Siddipet,2001,174.0
-Andhra Pradesh,Siddipet,2002,354.5
 Telangana,Siddipet,2004,181.0
 Telangana,Siddipet,2005,160.0
 Telangana,Siddipet,2006,489.0
@@ -6746,9 +6656,6 @@ Delhi,South,2007,247.0
 Delhi,South,2008,311.60001
 Delhi,South,2009,223.0
 Delhi,South,2010,156.5
-Andhra Pradesh,Sri Potti Sriramulu Nellore,2000,204.6875
-Andhra Pradesh,Sri Potti Sriramulu Nellore,2001,272.21054
-Andhra Pradesh,Sri Potti Sriramulu Nellore,2002,338.70969
 Andhra Pradesh,Sri Potti Sriramulu Nellore,2004,319.36365
 Andhra Pradesh,Sri Potti Sriramulu Nellore,2005,324.07407
 Andhra Pradesh,Sri Potti Sriramulu Nellore,2006,310.67648
@@ -6764,9 +6671,6 @@ Andhra Pradesh,Sri Potti Sriramulu Nellore,2015,506.20587
 Andhra Pradesh,Sri Potti Sriramulu Nellore,2016,208.54167
 Andhra Pradesh,Sri Potti Sriramulu Nellore,2017,279.8421
 Andhra Pradesh,Sri Potti Sriramulu Nellore,2018,349.95999
-Andhra Pradesh,Srikakulam,2000,217.54546
-Andhra Pradesh,Srikakulam,2002,270.95456
-Andhra Pradesh,Srikakulam,2003,482.0
 Andhra Pradesh,Srikakulam,2004,289.34616
 Andhra Pradesh,Srikakulam,2005,311.16
 Andhra Pradesh,Srikakulam,2006,298.27274
@@ -6891,9 +6795,6 @@ Chhattisgarh,Surguja,2015,25.714544
 Chhattisgarh,Surguja,2016,25.378872
 Chhattisgarh,Surguja,2017,30.273611
 Chhattisgarh,Surguja,2018,26.346165
-Andhra Pradesh,Suryapet,2000,237.39999
-Andhra Pradesh,Suryapet,2001,486.36801
-Andhra Pradesh,Suryapet,2002,348.60001
 Telangana,Suryapet,2004,508.33334
 Telangana,Suryapet,2005,436.0
 Telangana,Suryapet,2006,359.33334
@@ -7014,17 +6915,17 @@ Tamilnadu,Theni,2000,187.77777
 Tamilnadu,Theni,2001,299.25
 Tamilnadu,Theni,2002,289.28571
 Tamilnadu,Theni,2004,425.79999
-TamilNadu,Theni,2005,350.66666
+Tamilnadu,Theni,2005,350.66666
 Tamilnadu,Theni,2006,197.75
 Tamilnadu,Theni,2007,463.75
 Tamilnadu,Theni,2009,402.39999
-TamilNadu,Theni,2010,396.85715
+Tamilnadu,Theni,2010,396.85715
 Tamilnadu,Theni,2011,243.66667
 Tamilnadu,Theni,2012,388.71429
 Tamilnadu,Theni,2013,341.5
 Tamilnadu,Theni,2014,205.125
 Tamilnadu,Theni,2016,232.46153
-TamilNadu,Theni,2017,304.48749
+Tamilnadu,Theni,2017,304.48749
 Tamilnadu,Theni,2018,124.4295
 Tamilnadu,Thiruvallur,2000,284.0
 Tamilnadu,Thiruvallur,2001,401.5
@@ -7461,9 +7362,6 @@ Madhya Pradesh,Vidisha,2017,93.75
 Madhya Pradesh,Vidisha,2018,149.2
 Karnataka,Vijayapura,2014,107.0
 Karnataka,Vijayapura,2017,746.0
-Andhra Pradesh,Vikarabad,2000,131.0
-Andhra Pradesh,Vikarabad,2001,139.0
-Andhra Pradesh,Vikarabad,2002,127.5
 Telangana,Vikarabad,2004,211.66667
 Telangana,Vikarabad,2005,114.33334
 Telangana,Vikarabad,2006,145.33333
@@ -7510,11 +7408,8 @@ Tamilnadu,Virudhunagar,2012,370.60001
 Tamilnadu,Virudhunagar,2013,479.375
 Tamilnadu,Virudhunagar,2014,351.0
 Tamilnadu,Virudhunagar,2016,245.73654
-TamilNadu,Virudhunagar,2017,331.97693
+Tamilnadu,Virudhunagar,2017,331.97693
 Tamilnadu,Virudhunagar,2018,290.0007
-Andhra Pradesh,Visakhapatanam,2000,192.48387
-Andhra Pradesh,Visakhapatanam,2002,185.89473
-Andhra Pradesh,Visakhapatanam,2003,297.92001
 Andhra Pradesh,Visakhapatanam,2004,238.47575
 Andhra Pradesh,Visakhapatanam,2005,235.6875
 Andhra Pradesh,Visakhapatanam,2006,215.21892
@@ -7530,8 +7425,6 @@ Andhra Pradesh,Visakhapatanam,2015,180.30281
 Andhra Pradesh,Visakhapatanam,2016,124.54546
 Andhra Pradesh,Visakhapatanam,2017,142.44406
 Andhra Pradesh,Visakhapatanam,2018,148.28302
-Andhra Pradesh,Vizianagaram,2000,172.66667
-Andhra Pradesh,Vizianagaram,2002,164.78261
 Andhra Pradesh,Vizianagaram,2004,211.18182
 Andhra Pradesh,Vizianagaram,2005,160.45833
 Andhra Pradesh,Vizianagaram,2006,102.0
@@ -7547,9 +7440,6 @@ Andhra Pradesh,Vizianagaram,2015,180.63158
 Andhra Pradesh,Vizianagaram,2016,152.70213
 Andhra Pradesh,Vizianagaram,2017,140.7
 Andhra Pradesh,Vizianagaram,2018,161.4359
-Andhra Pradesh,Wanaparthy,2000,303.33334
-Andhra Pradesh,Wanaparthy,2002,508.33334
-Andhra Pradesh,Wanaparthy,2003,53.0
 Telangana,Wanaparthy,2004,764.0
 Telangana,Wanaparthy,2005,18.0
 Telangana,Wanaparthy,2006,826.0
@@ -7564,8 +7454,6 @@ Telangana,Wanaparthy,2015,189.5
 Telangana,Wanaparthy,2016,132.33333
 Telangana,Wanaparthy,2017,177.25
 Telangana,Wanaparthy,2018,315.33334
-Andhra Pradesh,Warangal Rural,2000,155.39999
-Andhra Pradesh,Warangal Rural,2002,118.5
 Telangana,Warangal Rural,2004,531.5
 Telangana,Warangal Rural,2005,99.5
 Telangana,Warangal Rural,2006,115.6
@@ -7581,8 +7469,6 @@ Telangana,Warangal Rural,2015,839.5
 Telangana,Warangal Rural,2016,109.28571
 Telangana,Warangal Rural,2017,544.40002
 Telangana,Warangal Rural,2018,82.5
-Andhra Pradesh,Warangal Urban,2000,174.25
-Andhra Pradesh,Warangal Urban,2002,156.0
 Telangana,Warangal Urban,2004,176.60001
 Telangana,Warangal Urban,2005,99.199997
 Telangana,Warangal Urban,2006,108.83334
@@ -7654,8 +7540,6 @@ Meghalaya,West Garo Hills,2015,30.85
 Meghalaya,West Garo Hills,2016,28.122288
 Meghalaya,West Garo Hills,2017,24.224167
 Meghalaya,West Garo Hills,2018,31.630384
-Andhra Pradesh,West Godavari,2000,217.54167
-Andhra Pradesh,West Godavari,2002,400.38806
 Andhra Pradesh,West Godavari,2004,514.72729
 Andhra Pradesh,West Godavari,2005,697.0
 Andhra Pradesh,West Godavari,2006,223.8647
@@ -7711,9 +7595,6 @@ Delhi,West,2007,279.0
 Delhi,West,2008,429.66666
 Delhi,West,2009,2227.1667
 Delhi,West,2010,2598.0
-Andhra Pradesh,Y.S.R.,2000,238.11111
-Andhra Pradesh,Y.S.R.,2001,268.07693
-Andhra Pradesh,Y.S.R.,2002,338.60001
 Andhra Pradesh,Y.S.R.,2004,173.44444
 Andhra Pradesh,Y.S.R.,2005,224.90909
 Andhra Pradesh,Y.S.R.,2006,288.0
@@ -7729,8 +7610,6 @@ Andhra Pradesh,Y.S.R.,2015,348.92307
 Andhra Pradesh,Y.S.R.,2016,269.72
 Andhra Pradesh,Y.S.R.,2017,275.17499
 Andhra Pradesh,Y.S.R.,2018,567.45453
-Andhra Pradesh,Yadadri Bhuvanagiri,2000,489.0
-Andhra Pradesh,Yadadri Bhuvanagiri,2002,355.0
 Telangana,Yadadri Bhuvanagiri,2004,741.0
 Telangana,Yadadri Bhuvanagiri,2006,936.0
 Telangana,Yadadri Bhuvanagiri,2007,851.0
