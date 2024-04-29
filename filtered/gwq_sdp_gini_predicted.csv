@@ -1,4 +1,4 @@
-state,district,year,chloride,sdp,gini,predicted_chloride,residuals
+state,district,year,chloride,sdp,gini,predicted_chloride,residual
 Andaman And Nicobar Islands,South Andaman,2018,55.435909,6108.0,0.33,6.4288705211900785,49.007038478809925
 Andaman And Nicobar Islands,North And Middle Andaman,2007,55.25,2220.3882250072866,0.3,2.347912044686215,52.90208795531378
 Andaman And Nicobar Islands,North And Middle Andaman,2005,35.6875,1706.4645875837948,0.3,1.8055791687453824,33.88192083125462

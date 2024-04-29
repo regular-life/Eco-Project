@@ -1,4 +1,4 @@
-data <- read.csv("filtered_gwq_sdp_gini.csv")
+data <- read.csv("filtered/gwq_sdp_gini.csv")
 
 # Run regression
 model <- lm(chloride ~ sdp + I(sdp^2) + I(sdp^3) + gini, data = data)
